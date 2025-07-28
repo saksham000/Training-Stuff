@@ -51,3 +51,33 @@ row number
 • Find the greatest of three numbers
 • Print the largest two numbers from an array of given numbers
 Till Page - 13
+
+
+
+
+
+
+
+
+
+
+Sample Input/Output 1:
+
+Enter the details
+
+Hari:20:5:9:15
+
+Hari scored 149 points
+
+Explanation:
+
+Points calculation
+
+Big fish = 5*10 = 50
+
+Medium fish =  9*6 = 54
+
+Small fish = 15*3 = 45
+
+Total points = 50 + 54 + 45 = 149
+
