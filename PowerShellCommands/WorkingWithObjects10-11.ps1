@@ -306,16 +306,6 @@ d-r---        30/07/2025     15:46                Downloads
 
 PS C:\Users\2435029> cd .\Documents\
 PS C:\Users\2435029\Documents> dir
-PS C:\Users\2435029\Documents> cd Desktop
-cd : Cannot find path 'C:\Users\2435029\Documents\Desktop' because it does not exist.
-At line:1 char:1
-+ cd Desktop
-+ ~~~~~~~~~~
-    + CategoryInfo          : ObjectNotFound: (C:\Users\2435029\Documents\Desktop:Str
-   ing) [Set-Location], ItemNotFoundException
-    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.SetLocationC
-   ommand
-
 PS C:\Users\2435029\Documents> cd ..
 PS C:\Users\2435029> cd ..
 PS C:\Users> cd ..
